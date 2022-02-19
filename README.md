@@ -48,4 +48,7 @@ Marclyn.createDay();
 - ![](https://img.shields.io/badge/Code-Python-black?style=flat-square&logo=python&logoColor=magenta)
 - ![](https://img.shields.io/badge/Tools-MongoDB-black?style=flat-square&logo=mongodb&logoColor=cyan)
 
+## Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Marclyn&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
