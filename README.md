@@ -40,3 +40,5 @@ Marclyn.createDay();
 ```
 
 <img src="https://komarev.com/ghpvc/?username=Marclyn&label=Ziyaretçi%20Sayısı&color=552b75" alt="Marclyn" />
+
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/891308471650238536)](https://discord.com/users/891308471650238536)
