@@ -34,6 +34,9 @@ class CreateMan extends Marclyn {
   
 }
 
+
 let Marclyn = new CreateMan()
 Marclyn.createDay();
 ```
+
+<img src="https://komarev.com/ghpvc/?username=Marclyn&label=Ziyaretçi%20Sayısı&color=552b75" alt="Marclyn" />
